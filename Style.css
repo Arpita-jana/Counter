@@ -30,13 +30,14 @@ h1 {
   border: none;
   border-radius: 5px;
   background: #28a745;
+  
   color: white;
   transition: background 0.3s;
 }
 
 .buttons button:hover {
   background: #1e7e34;
-  
+
 
 }
 

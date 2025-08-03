@@ -17,5 +17,6 @@ function decrement() {
 function reset() {
   count = 0;
   updateDisplay(); 
+  
 }
 
