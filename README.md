@@ -6,7 +6,7 @@ A simple **Counter Application** built using **HTML, CSS, and JavaScript**.
 
 ## 🔗 Live Website
 
-👉 [Click here to view the live app](https://Arpita-jana.github.io/counter-app/)
+👉 [Click here to view the live app](https://Arpita-jana.github.io/Counter-app/)
 
 (Replace the above link with your actual GitHub Pages link)
 
